@@ -25,6 +25,10 @@ app.get('/chefs/:id', (req, res) => {
 app.get('/recipes', (req, res) => {
   res.send(recipes)
 })
+app.get('/recipes/:id', (req, res) => {
+  const selectedRecipes = recipes.find(n => n.id === id)
+  res.send(selectedRecipes)
+})
 
 app.listen(port, () => {
   console.log(`Mangia Italiano running on port ${port}`)
