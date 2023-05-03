@@ -3,8 +3,8 @@
         "id": 1,
         "chef_name": "Gennaro Contaldo",
         "short_bio": "Celebrity chef, restaurateur, and Jamie Oliver's mentor",
-        "chef_pic_url": "https://www.example.com/gennaro-contaldo.jpg",
-        "year_of_experience": 50,
+        "chef_pic_url": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1060&t=st=1683045307~exp=1683045907~hmac=ea76bf20fa0c9fac8e2344b5fe5cee136818c7857d22e1e5dcaa01289bf93c4f",
+        "year_of_experience": "7 years",
         "number_of_recipes": 5,
         "likes": 20000
     },
@@ -12,8 +12,8 @@
         "id": 2,
         "chef_name": "Giada De Laurentiis",
         "short_bio": "Celebrity chef, cookbook author, and Food Network star",
-        "chef_pic_url": "https://www.example.com/giada-de-laurentiis.jpg",
-        "year_of_experience": 25,
+        "chef_pic_url": "https://img.freepik.com/free-photo/portrait-handsome-male-chef-dressed-uniform_171337-5352.jpg?w=1060&t=st=1683050719~exp=1683051319~hmac=850326657538e0c3c43a52a43c2af83264d1d420b6572f8501462a3d7adfe6ba",
+        "year_of_experience": "5 years",
         "number_of_recipes": 3,
         "likes": 15000
     },
@@ -21,8 +21,8 @@
         "id": 3,
         "chef_name": "Massimo Bottura",
         "short_bio": "Three-Michelin-starred chef and owner of Osteria Francescana",
-        "chef_pic_url": "https://www.example.com/massimo-bottura.jpg",
-        "year_of_experience": 35,
+        "chef_pic_url": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-posing_140725-15373.jpg?t=st=1683037431~exp=1683038031~hmac=86947c1cb9908df5f5adbaf3381d2feaef8b12b03d7f521b5b97d8fe5e5d7471",
+        "year_of_experience": "10 years",
         "number_of_recipes": 3,
         "likes": 25000
     },
@@ -30,8 +30,8 @@
         "id": 4,
         "chef_name": "Lidia Bastianich",
         "short_bio": "Celebrity chef, restaurateur, and cookbook author",
-        "chef_pic_url": "https://www.example.com/lidia-bastianich.jpg",
-        "year_of_experience": 40,
+        "chef_pic_url": "https://img.freepik.com/free-photo/handsome-chef-jugglery-with-vegetable_329181-689.jpg?w=1060&t=st=1683045806~exp=1683046406~hmac=5de1370e9fed61fc32f626fc9d3c6f80d431490ec022bd7ba596ee5ed8b3d7da",
+        "year_of_experience": "9 years",
         "number_of_recipes": 4,
         "likes": 18000
     },
@@ -39,8 +39,8 @@
         "id": 5,
         "chef_name": "Mario Batali",
         "short_bio": "Celebrity chef, restaurateur, and Iron Chef America star",
-        "chef_pic_url": "https://www.example.com/mario-batali.jpg",
-        "year_of_experience": 30,
+        "chef_pic_url": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?w=1060&t=st=1683045598~exp=1683046198~hmac=f014495fecb1acaf6ced7401b874a61081e5be75df2be855a4988cfb9ca05440",
+        "year_of_experience": "4 years",
         "number_of_recipes": 3,
         "likes": 12000
     },
@@ -48,8 +48,8 @@
         "id": 6,
         "chef_name": "Nigella Lawson",
         "short_bio": "Celebrity chef, cookbook author, and television personality",
-        "chef_pic_url": "https://www.example.com/nigella-lawson.jpg",
-        "year_of_experience": 20,
+        "chef_pic_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=1060&t=st=1683045485~exp=1683046085~hmac=73f2b65c766bafaac7e85262a268e4d18db4a37a1b63fbdefefbeeb39c062e9a",
+        "year_of_experience": "2 years",
         "number_of_recipes": 4,
         "likes": 9000
     }
