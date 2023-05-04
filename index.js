@@ -17,7 +17,7 @@ app.get('/chefs', (req, res) => {
 })
 
 app.get('/chefs/:id', (req, res) => {
-  const id = req.params.id;
+  const id = parseInt(req.params.id);
   const chefRecipes = recipes.filter(n => n.chef_id === id)
   res.send(chefRecipes)
 })
@@ -26,6 +26,7 @@ app.get('/recipes', (req, res) => {
   res.send(recipes)
 })
 app.get('/recipes/:id', (req, res) => {
+  const id = parseInt(req.params.id);
   const selectedRecipes = recipes.find(n => n.id === id)
   res.send(selectedRecipes)
 })
